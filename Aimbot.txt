@@ -1,4 +1,3 @@
-
 --FE Simple AimLock Script | Released Nov 2021 | Working.
 local Area = game:GetService("Workspace")
 local RunService = game:GetService("RunService")
